@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Thousands of civilians trapped in Severodonetsk",
+      "description": "Food and water are running out for the women and children still there, a UN official tells the BBC.",
+      "url": "http://www.bbc.co.uk/news/world-europe-61816749",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17195/production/_125431649_severodonetsk.jpg",
+      "publishedAt": "2022-06-15T21:37:20.2738116Z",
+      "content": "By Emily McGarvey &amp; Leo SandsBBC News\r\nThousands of civilians are trapped in the Ukrainian city of Severodonetsk with essential supplies running out, the United Nations is warning.\r\nMany of them … [+3202 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Inflation is up, unemployment is down — what does it all mean for Canadians? | The Sunday Magazine with Piya Chattopadhyay | Live Radio | CBC Listen",
+      "description": "Food costs more. Gas prices are high. Interest rates are climbing amid rising inflation. And it's not just Canadians feeling the pinch. This past week, the World Bank warned that many countries are facing recessions. To break down what it all means, Piya Chat…",
+      "url": "https://www.cbc.ca/listen/live-radio/1-57-the-sunday-magazine/clip/15918560-inflation-up-unemployment-mean-canadians",
+      "urlToImage": "https://i.cbc.ca/1.5675076.1596648295!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/shop-local-movement-gets-supercharged-by-pandemic-image-6.jpg",
+      "publishedAt": "2022-06-15T21:22:18.9429391Z",
+      "content": "© CBC/Radio-Canada 2022. All rights reserved."
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "FDA advisers vote yes to Moderna's COVID-19 vaccine for kids 5 and under in U.S. | CBC News",
+      "description": "The U.S. Food and Drug Administration's outside vaccine advisers have voted to authorize Moderna's COVID-19 vaccine for children between six months and five years of age. They will vote separately on a similar submission from Pfizer this afternoon.",
+      "url": "http://www.cbc.ca/news/health/fda-covid-19-vaccines-young-kids-moderna-pfizer-1.6489885",
+      "urlToImage": "https://i.cbc.ca/1.6269967.1638388235!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-kids-vaccine-bandage.JPG",
+      "publishedAt": "2022-06-15T19:37:22.0556889Z",
+      "content": "The U.S. Food and Drug Administration's outside vaccine advisers have voted unanimously to authorize Moderna's COVID-19 vaccine for children between six months and five years of age.\r\nThey will vote … [+427 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Christine Hall",
+      "title": "Investors salivate over food tech companies perfecting precision fermentation",
+      "description": "The tech is not \"new,\" but sector followers are excited for the potential of better-quality, more-cost-effective proteins versus animal-based counterparts.",
+      "url": "https://techcrunch.com/2022/06/15/investors-salivate-over-food-tech-companies-perfecting-precision-fermentation/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/02/MG_5113.jpg?w=711",
+      "publishedAt": "2022-06-15T17:00:53Z",
+      "content": "Precision fermentation may be a food tech term that doesnt put a pleasant taste in your mouth, but advances in the technology have investors increasingly ordering it from the menu and giving complime… [+2316 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "LINDSEY TANNER and MIKE STOBBE",
+      "title": "FDA advisers move COVID-19 shots closer for kids under 5",
+      "description": "COVID-19 shots for U.S. infants, toddlers and preschoolers moved a step closer Wednesday.The Food and Drug Administration's vaccine advisers gave a thumbs-up to vaccines from Moderna and Pfizer for the littlest kids.",
+      "url": "https://apnews.com/368ca7b4ab393dc48ffa04b5a3171d5b",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/30823c21e28c42bfbd1b0a077a3fa55d/3000.jpeg",
+      "publishedAt": "2022-06-15T14:17:36Z",
+      "content": "COVID-19 shots for U.S. infants, toddlers and preschoolers moved a step closer Wednesday.The Food and Drug Administration's vaccine advisers gave a thumbs-up to vaccines from Moderna and Pfizer for t… [+4787 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "Susan Ferrechio",
+      "title": "Panic sets in after months of high prices: 'How high is it going to go?'",
+      "description": "Record-high gasoline prices, coupled with rapidly rising costs for food and other goods, has begun to cripple individuals and families at the lower end of the income scale, sending them in droves to food banks and other charities.",
+      "url": "https://www.washingtontimes.com/news/2022/jun/15/panic-sets-after-months-high-prices-how-high-it-go/",
+      "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2022/06/15/INFLATION_c0-0-1200-700_s1200x700.jpg?5cbb1a55a2cf553b841d35f000e511e210e8dac1",
+      "publishedAt": "2022-06-15T10:43:00Z",
+      "content": "JACKSONVILLE, Fla. Record-high gasoline prices, coupled with rapidly rising costs for food and other goods, has begun to cripple individuals and families at the lower end of the income scale, sending… [+4823 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "U.S. inflation hit a new 40-year high last month of 8.6 percent",
+      "description": "America’s rampant inflation is imposing severe pressures on families, forcing them to pay much more for food, gas and rent.",
+      "url": "https://www.politico.com/news/2022/06/10/inflation-new-high-may-00038786",
+      "urlToImage": "https://static.politico.com/81/28/24e2dbf643679aaa65fc234d9af2/20220610-inflation-ap-773.jpg",
+      "publishedAt": "2022-06-10T13:11:01+00:00",
+      "content": "Americas rampant inflation is imposing severe pressures on families, forcing them to pay much more for food, gas and rent and reducing their ability to afford discretionary items, from haircuts to el… [+3336 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "Dipak K Dash",
+      "title": "Government to provide 5 kg free food grains to poor for May & June",
+      "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+      "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-04-23T04:23:00Z",
+      "content": null
+    }
+  ]
+}
